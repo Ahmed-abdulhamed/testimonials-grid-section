@@ -37,7 +37,7 @@ main {
         grid-template-columns: repeat(4, minmax(200px, 1fr));
         gap: 10px;
         justify-content: center;
-        align-items: center;
+        /* align-items: center; */
         /* perspective: 300px;
         perspective-origin: left bottom; */
     }
